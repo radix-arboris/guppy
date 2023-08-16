@@ -1,0 +1,1 @@
+2023/08/15 19:42:54 Error creating users table:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub

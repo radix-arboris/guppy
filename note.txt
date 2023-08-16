@@ -1,0 +1,6 @@
+docker build -t guppy .
+docker-compose up -d
+
+
+docker-compose down
+docker rmi guppy
